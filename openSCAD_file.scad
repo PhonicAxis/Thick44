@@ -22,6 +22,6 @@ translate([-63.78,10,0])
 rotate([90,0,0])
 //align(x=100, y=100, z=100, center = true)
 
-// Now speak the the words of the Human Man Warrior, and get kills.
+// Now speak the words of the Human Man Warrior, and get kills.
 
 youre_nobody();
