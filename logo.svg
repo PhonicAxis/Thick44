@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="357.44"
+   height="317.22"
+   viewBox="0 0 357.44 317.22"
+   version="1.1"
+   sodipodi:docname="wade logo.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview68"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74396318"
+     inkscape:cx="2.0162288"
+     inkscape:cy="161.97038"
+     inkscape:window-width="1449"
+     inkscape:window-height="701"
+     inkscape:window-x="298"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs61">
+    <style
+       id="style59">
+      .cls-1 {
+        fill: #fff;
+        stroke: #272525;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <polygon
+     class="cls-1"
+     points="128.49,60.08 128.62,1.21 0.63,129.2 0.58,149.14 0.5,149.14 0.5,187.14 130.5,187.14 130.5,281.14 171.5,316.14 171.5,187.14 171.5,167.14 171.5,149.14 39.43,149.14 "
+     id="polygon63"
+     transform="matrix(1.0113238,0,0,0.99147839,-0.00755179,2.6957837)" />
+  <polygon
+     class="cls-1"
+     points="228.96,60.08 228.83,1.21 356.81,129.2 356.87,149.14 356.94,149.14 356.94,187.14 226.94,187.14 226.94,281.14 185.94,316.14 185.94,187.14 185.94,167.14 185.94,149.14 318.02,149.14 "
+     id="polygon65"
+     transform="matrix(1.0113238,0,0,0.99147839,-0.00755179,2.6957837)" />
+</svg>
